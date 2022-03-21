@@ -92,6 +92,7 @@ useEffect(() => {
 ![커서 슬라이드](https://user-images.githubusercontent.com/93017923/159226604-0b591a82-4abb-48ff-8e83-fefc5a1ef305.gif)
 
 - **리액트 페이지 배포**
+> https://postop09.github.io/react_netflix_clone/
 
 ![배포하기](https://user-images.githubusercontent.com/93017923/159226614-6fdf53cf-2618-4a8b-b47b-e29982e9a292.gif)
 
