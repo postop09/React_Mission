@@ -77,3 +77,21 @@ useEffect(() => {
   }
 },[])
 ```
+
+## 3차 미션 스크린샷
+
+### Basic
+- **화면 밖 클릭 시 모달창 닫기**
+
+![모달 닫기](https://user-images.githubusercontent.com/93017923/159226584-cc4ee056-5084-4d22-9e10-290d90ac5b15.gif)
+
+
+### Challenge
+- **커서로 슬라이드**
+
+![커서 슬라이드](https://user-images.githubusercontent.com/93017923/159226604-0b591a82-4abb-48ff-8e83-fefc5a1ef305.gif)
+
+- **리액트 페이지 배포**
+
+![배포하기](https://user-images.githubusercontent.com/93017923/159226614-6fdf53cf-2618-4a8b-b47b-e29982e9a292.gif)
+
