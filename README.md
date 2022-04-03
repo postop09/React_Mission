@@ -96,3 +96,10 @@ useEffect(() => {
 
 ![배포하기](https://user-images.githubusercontent.com/93017923/159226614-6fdf53cf-2618-4a8b-b47b-e29982e9a292.gif)
 
+## 4차 미션 스크린샷
+
+### Basic
+**테스트 코드 작성**
+![basic-1](https://user-images.githubusercontent.com/93017923/161440977-2ceb102a-e136-4772-82cc-8fe359aa6312.PNG)
+
+![basic-2](https://user-images.githubusercontent.com/93017923/161440986-3160ba08-22cc-42c6-a262-8ae15c232bad.PNG)
